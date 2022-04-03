@@ -1,0 +1,13 @@
+
+#video{
+    /* background: red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 80%;
+}
+
+img{
+    transform: rotate(-20deg);
+    width: 50%;
+}

@@ -1,0 +1,16 @@
+.formMain{
+    /* background: violet; */
+    position: fixed;
+    right: 0;
+    min-height: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: grey;
+}
+
+
+.completed{
+    text-decoration: line-through;
+    color: grey;
+}
